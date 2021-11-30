@@ -1,0 +1,15 @@
+{
+  "name": "ts-cli-template",
+  "version": "1.0.0",
+  "license": "MIT",
+  "bin": {
+    "main": "bin/main"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "esm": "^3.2.25",
+    "typescript": "^4.5.2"
+  }
+}
